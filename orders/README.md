@@ -1,7 +1,7 @@
 # orders
 Displays the orders from the API in a table
 
-To run the client, check the API server URL is correct in the Orders.vue file in the OrdersURL const
+Before running the client, check the API server URL is correct in the Orders.vue file in the OrdersURL const
 
 ## Project setup
 ```
